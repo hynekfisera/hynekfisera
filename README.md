@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on the [Flairleap app](https://flairleap.com/)
 
+- 🌱 I’m currently learning Flutter and Dart
+
 - 👯 I’m looking to collaborate on any web-development-related projects
 
 - 👨‍💻 All of my projects are available at [https://hynekfisera.com/](https://hynekfisera.com/)
