@@ -21,7 +21,7 @@
 <a href="https://fb.com/hynekfisera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hynekfisera" height="30" width="40" /></a>
 <a href="https://instagram.com/hynekfisera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hynekfisera" height="30" width="40" /></a>
 <a href="https://dribbble.com/hynekfisera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hynekfisera" height="30" width="40" /></a>
-<a href="https://discord.gg/G9XEd984tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G9XEd984tz" height="30" width="40" /></a>
+<a href="https://arfi.cz/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G9XEd984tz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
