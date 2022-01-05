@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hynek</h1>
 <h3 align="center">I'm interested in Web Development and UI/UX Design</h3>
 
-- 🔭 I’m currently working on the [Flairleap app](https://flairleap.com/)
+- 🔭 I’m currently working on the [Flairleap social network](https://flairleap.com/)
 
-- 🌱 I’m currently learning Next.js, Tailwind and Prisma
+- 🌱 I’m currently learning Next.js and TypeScript
 
 - 👯 I’m looking to collaborate on any web-development-related projects
 
 - 👨‍💻 All of my projects are available at [https://hynekfisera.com/](https://hynekfisera.com/)
 
-- 📫 How to reach me **hynek@oneflair.co**
+- 📫 How to reach me **hynek@flairleap.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/hynekfisera](https://linkedin.com/in/hynekfisera)
 
