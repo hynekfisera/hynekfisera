@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on any web-development-related projects
 
-- 👨‍💻 All of my projects are available at [https://hynekfisera.com/](https://hynekfisera.com/)
+- 👨‍💻 All of my projects are available at [https://fisera.co/](https://fisera.co/)
 
 - 📫 How to reach me **hynek@flairleap.com**
 
